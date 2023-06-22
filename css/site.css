@@ -1,0 +1,28 @@
+body.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+body.light-mode {
+  background-color: #fff;
+  color: #333;
+}
+#mode-toggle {
+  background-color: #fff;
+  color: rgb(255 255 255 / 55%);
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+#mode-toggle:hover {
+  background-color: #333;
+  color: #fff;
+}
+a.black {
+  color: black;
+}
+.icones {
+  width: 100px;
+  height: 100px;
+}

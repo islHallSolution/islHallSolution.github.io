@@ -1,13 +1,5 @@
---
-layout:page
-title:about
+## Página de Apresentação
+
 ---
 
-this is an about page about learning github pages.
-
-Reasons:
-- its great.
-- its a teste
-
-## Other thoughts
-This is great.
+[https://islhallsolution.github.io/]Este site criado de formma estática apresenta algumas informações sobre mim.
